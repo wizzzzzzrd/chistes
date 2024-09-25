@@ -1,0 +1,40 @@
+{
+    "name": "Chistes del Equipo",
+    "short_name": "Chistes",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6200ea",
+    "icons": [
+        {
+            "src": "assets/icons/logo-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/icons/logo-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/icons/logo-384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/icons/logo-256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/icons/logo-96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
